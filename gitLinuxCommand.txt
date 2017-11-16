@@ -6,4 +6,4 @@ mkdir—to create a folder
 touch —to create a file
  cat— to view a file
 nano—text editor
-
+vi---another text editor
