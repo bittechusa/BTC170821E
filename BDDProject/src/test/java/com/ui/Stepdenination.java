@@ -20,6 +20,7 @@ public class Stepdenination
 	public void nevigate_to_url() throws Throwable {
 		b=new Base();
 		hp=b.nevigateUrl();
+		System.out.println("after long time mamo came to class");
 	}
 //
 //	@When("^type userId$")
