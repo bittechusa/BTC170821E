@@ -21,6 +21,8 @@ public class Stepdenination
 		b=new Base();
 		hp=b.nevigateUrl();
 		System.out.println("after long time mamo came to class");
+		
+		System.out.println("in a new branch");
 	}
 //
 //	@When("^type userId$")
