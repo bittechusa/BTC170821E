@@ -1,0 +1,9 @@
+Linux command:
+cd —change directory
+pwd—present work directory
+ls——List of file in folder
+mkdir—to create a folder
+touch —to create a file
+ cat— to view a file
+nano—text editor
+
